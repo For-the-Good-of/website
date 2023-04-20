@@ -90,3 +90,8 @@ a:hover {
   background-color: #06301c !important;
   border: #06301c !important;
 }
+
+.modal-info {
+  font-size: 13px;
+  font-style: italic;
+}
