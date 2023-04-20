@@ -1,5 +1,5 @@
 const options = {
-  strings: ["humanty.", "the environment.", "our future."],
+  strings: ["humanity.", "the environment.", "our future."],
   typeSpeed: 100,
   backDelay: 900,
   loop: true,
