@@ -1,0 +1,92 @@
+body {
+  background-color: #f6faf0;
+  color: #06301c;
+  font-family: 'Poppins', sans-serif;
+}
+a {
+  color: #6dc453;
+}
+a:hover {
+  color: #06301c;
+  text-decoration: underline;
+}
+.content-wrap {
+  text-align: center;
+}
+
+.side-left {
+  background: #f6faf0;
+  padding-top: 5%;
+}
+
+.side-left .small-hr {
+  margin-top: 17px;
+  margin-bottom: 25px;
+}
+
+.small-hr {
+  background: #000 none repeat scroll 0 0;
+  display: block;
+  height: 4px;
+  width: 32px;
+}
+
+.description-area {
+  max-width: 900px;
+  margin: 0 auto;
+  text-align: justify;
+  padding-bottom: 25px;
+}
+
+.type-wrap {
+  min-height: 50px;
+  padding-bottom: 20px;
+}
+
+.type-wrap h1 {
+  color: #06301c;
+  text-transform: uppercase;
+}
+
+.typed-cursor {
+  font-size: 25px;
+}
+
+.align-center {
+  overflow: hidden;
+  clear: both;
+  float: none;
+  margin: 0 auto;
+}
+
+.title {
+  color: black;
+  font-size: 50px;
+  margin-bottom: 15px;
+}
+
+.logo {
+  max-width: 200px;
+}
+
+.action {
+  margin-top: 15px;
+  margin-bottom: 50px;
+}
+
+.action a {
+  background-color: #06301c;
+  color: white;
+  padding: 15px 25px;
+  text-decoration: none;
+  border-radius: 3px;
+}
+
+.action a:hover {
+  text-decoration: none;
+}
+
+.btn-forthegood {
+  background-color: #06301c !important;
+  border: #06301c !important;
+}
