@@ -34,7 +34,7 @@ a:hover {
 .description-area {
   max-width: 900px;
   margin: 0 auto;
-  text-align: justify;
+  text-align: left;
   padding-bottom: 25px;
 }
 
